@@ -1,0 +1,16 @@
+C:\Users\Moyosore\Desktop\WellaHealth School\lab_2\bin\Debug\net5.0\lab_2.exe
+C:\Users\Moyosore\Desktop\WellaHealth School\lab_2\bin\Debug\net5.0\lab_2.deps.json
+C:\Users\Moyosore\Desktop\WellaHealth School\lab_2\bin\Debug\net5.0\lab_2.runtimeconfig.json
+C:\Users\Moyosore\Desktop\WellaHealth School\lab_2\bin\Debug\net5.0\lab_2.runtimeconfig.dev.json
+C:\Users\Moyosore\Desktop\WellaHealth School\lab_2\bin\Debug\net5.0\lab_2.dll
+C:\Users\Moyosore\Desktop\WellaHealth School\lab_2\bin\Debug\net5.0\ref\lab_2.dll
+C:\Users\Moyosore\Desktop\WellaHealth School\lab_2\bin\Debug\net5.0\lab_2.pdb
+C:\Users\Moyosore\Desktop\WellaHealth School\lab_2\obj\Debug\net5.0\lab_2.csproj.AssemblyReference.cache
+C:\Users\Moyosore\Desktop\WellaHealth School\lab_2\obj\Debug\net5.0\lab_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Moyosore\Desktop\WellaHealth School\lab_2\obj\Debug\net5.0\lab_2.AssemblyInfoInputs.cache
+C:\Users\Moyosore\Desktop\WellaHealth School\lab_2\obj\Debug\net5.0\lab_2.AssemblyInfo.cs
+C:\Users\Moyosore\Desktop\WellaHealth School\lab_2\obj\Debug\net5.0\lab_2.csproj.CoreCompileInputs.cache
+C:\Users\Moyosore\Desktop\WellaHealth School\lab_2\obj\Debug\net5.0\lab_2.dll
+C:\Users\Moyosore\Desktop\WellaHealth School\lab_2\obj\Debug\net5.0\ref\lab_2.dll
+C:\Users\Moyosore\Desktop\WellaHealth School\lab_2\obj\Debug\net5.0\lab_2.pdb
+C:\Users\Moyosore\Desktop\WellaHealth School\lab_2\obj\Debug\net5.0\lab_2.genruntimeconfig.cache
