@@ -1,0 +1,16 @@
+C:\Users\Moyosore\Desktop\WellaHealth School\Week3_lab\bin\Debug\net5.0\Week3_lab.exe
+C:\Users\Moyosore\Desktop\WellaHealth School\Week3_lab\bin\Debug\net5.0\Week3_lab.deps.json
+C:\Users\Moyosore\Desktop\WellaHealth School\Week3_lab\bin\Debug\net5.0\Week3_lab.runtimeconfig.json
+C:\Users\Moyosore\Desktop\WellaHealth School\Week3_lab\bin\Debug\net5.0\Week3_lab.runtimeconfig.dev.json
+C:\Users\Moyosore\Desktop\WellaHealth School\Week3_lab\bin\Debug\net5.0\Week3_lab.dll
+C:\Users\Moyosore\Desktop\WellaHealth School\Week3_lab\bin\Debug\net5.0\ref\Week3_lab.dll
+C:\Users\Moyosore\Desktop\WellaHealth School\Week3_lab\bin\Debug\net5.0\Week3_lab.pdb
+C:\Users\Moyosore\Desktop\WellaHealth School\Week3_lab\obj\Debug\net5.0\Week3_lab.csproj.AssemblyReference.cache
+C:\Users\Moyosore\Desktop\WellaHealth School\Week3_lab\obj\Debug\net5.0\Week3_lab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Moyosore\Desktop\WellaHealth School\Week3_lab\obj\Debug\net5.0\Week3_lab.AssemblyInfoInputs.cache
+C:\Users\Moyosore\Desktop\WellaHealth School\Week3_lab\obj\Debug\net5.0\Week3_lab.AssemblyInfo.cs
+C:\Users\Moyosore\Desktop\WellaHealth School\Week3_lab\obj\Debug\net5.0\Week3_lab.csproj.CoreCompileInputs.cache
+C:\Users\Moyosore\Desktop\WellaHealth School\Week3_lab\obj\Debug\net5.0\Week3_lab.dll
+C:\Users\Moyosore\Desktop\WellaHealth School\Week3_lab\obj\Debug\net5.0\ref\Week3_lab.dll
+C:\Users\Moyosore\Desktop\WellaHealth School\Week3_lab\obj\Debug\net5.0\Week3_lab.pdb
+C:\Users\Moyosore\Desktop\WellaHealth School\Week3_lab\obj\Debug\net5.0\Week3_lab.genruntimeconfig.cache
